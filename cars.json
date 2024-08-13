@@ -1,0 +1,502 @@
+[
+            {
+                "type": "brands",
+                "name": "TOYOTA",
+                "num": 25978
+            },
+            {
+                "type": "brands",
+                "name": "HONDA",
+                "num": 12554
+            },
+            {
+                "type": "brands",
+                "name": "DAIHATSU",
+                "num": 7898
+            },
+            {
+                "type": "brands",
+                "name": "SUZUKI",
+                "num": 4992
+            },
+            {
+                "type": "brands",
+                "name": "NISSAN",
+                "num": 4669
+            },
+            {
+                "type": "brands",
+                "name": "MITSUBISHI",
+                "num": 2256
+            },
+            {
+                "type": "brands",
+                "name": "MAZDA",
+                "num": 936
+            },
+            {
+                "type": "brands",
+                "name": "DATSUN",
+                "num": 750
+            },
+            {
+                "type": "brands",
+                "name": "CHEVROLET",
+                "num": 608
+            },
+            {
+                "type": "brands",
+                "name": "FORD",
+                "num": 590
+            },
+            {
+                "type": "brands",
+                "name": "KIA",
+                "num": 568
+            },
+            {
+                "type": "brands",
+                "name": "MERCEDES",
+                "num": 381
+            },
+            {
+                "type": "brands",
+                "name": "HYUNDAI",
+                "num": 313
+            },
+            {
+                "type": "brands",
+                "name": "BMW",
+                "num": 236
+            },
+            {
+                "type": "brands",
+                "name": "ISUZU",
+                "num": 174
+            },
+            {
+                "type": "brands",
+                "name": "VW",
+                "num": 93
+            },
+            {
+                "type": "brands",
+                "name": "WRANGLER",
+                "num": 35
+            },
+            {
+                "type": "brands",
+                "name": "AUDI",
+                "num": 33
+            },
+            {
+                "type": "brands",
+                "name": "RANGE ROVER",
+                "num": 25
+            },
+            {
+                "type": "brands",
+                "name": "SUBARU",
+                "num": 23
+            },
+            {
+                "type": "brands",
+                "name": "LEXUS",
+                "num": 19
+            },
+            {
+                "type": "brands",
+                "name": "MINI",
+                "num": 19
+            },
+            {
+                "type": "brands",
+                "name": "DODGE",
+                "num": 15
+            },
+            {
+                "type": "brands",
+                "name": "PEUGEOT",
+                "num": 14
+            },
+            {
+                "type": "brands",
+                "name": "MORRIS",
+                "num": 14
+            },
+            {
+                "type": "brands",
+                "name": "WULING",
+                "num": 14
+            },
+            {
+                "type": "brands",
+                "name": "PROTON",
+                "num": 13
+            },
+            {
+                "type": "brands",
+                "name": "PORSCHE",
+                "num": 12
+            },
+            {
+                "type": "brands",
+                "name": "CHEROKEE",
+                "num": 11
+            },
+            {
+                "type": "brands",
+                "name": "HUMMER",
+                "num": 9
+            },
+            {
+                "type": "brands",
+                "name": "LAND ROVER",
+                "num": 6
+            },
+            {
+                "type": "brands",
+                "name": "RENAULT",
+                "num": 6
+            },
+            {
+                "type": "brands",
+                "name": "FIAT",
+                "num": 4
+            },
+            {
+                "type": "brands",
+                "name": "CHERY",
+                "num": 3
+            },
+            {
+                "type": "brands",
+                "name": "ASTON MARTIN",
+                "num": 3
+            },
+            {
+                "type": "brands",
+                "name": "BENTLEY",
+                "num": 2
+            },
+            {
+                "type": "brands",
+                "name": "JAGUAR",
+                "num": 2
+            },
+            {
+                "type": "brands",
+                "name": "CJ - 7",
+                "num": 2
+            },
+            {
+                "type": "brands",
+                "name": "ROVER",
+                "num": 2
+            },
+            {
+                "type": "brands",
+                "name": "TATA",
+                "num": 2
+            },
+            {
+                "type": "brands",
+                "name": "FERARI",
+                "num": 1
+            },
+            {
+                "type": "brands",
+                "name": "CHRYSLER",
+                "num": 3
+            },
+            {
+                "type": "brands",
+                "name": "GEELY",
+                "num": 1
+            },
+            {
+                "type": "brands",
+                "name": "VOLVO",
+                "num": 1
+            },
+            {
+                "type": "types",
+                "name": "007|MINIBUS",
+                "num": 47356
+            },
+            {
+                "type": "types",
+                "name": "023|SUV",
+                "num": 7469
+            },
+            {
+                "type": "types",
+                "name": "005|SEDAN",
+                "num": 4954
+            },
+            {
+                "type": "types",
+                "name": "008|JEEP",
+                "num": 1873
+            },
+            {
+                "type": "types",
+                "name": "090|MPV",
+                "num": 1849
+            },
+            {
+                "type": "types",
+                "name": "006|PICK UP",
+                "num": 2
+            },
+            {
+                "type": "types",
+                "name": "018|BOX",
+                "num": 1
+            },
+            {
+                "type": "provinces",
+                "name": "33|SUMATERA UTARA",
+                "num": 9612
+            },
+            {
+                "type": "provinces",
+                "name": "03|DKI JAKARTA",
+                "num": 7361
+            },
+            {
+                "type": "provinces",
+                "name": "12|JAWA TIMUR",
+                "num": 7043
+            },
+            {
+                "type": "provinces",
+                "name": "01|JAWA BARAT",
+                "num": 6600
+            },
+            {
+                "type": "provinces",
+                "name": "51|KALIMANTAN SELATAN",
+                "num": 6146
+            },
+            {
+                "type": "provinces",
+                "name": "53|KALIMANTAN BARAT",
+                "num": 4060
+            },
+            {
+                "type": "provinces",
+                "name": "35|RIAU",
+                "num": 4023
+            },
+            {
+                "type": "provinces",
+                "name": "34|SUMATERA BARAT",
+                "num": 3390
+            },
+            {
+                "type": "provinces",
+                "name": "02|BANTEN",
+                "num": 2941
+            },
+            {
+                "type": "provinces",
+                "name": "36|SUMATERA SELATAN",
+                "num": 2812
+            },
+            {
+                "type": "provinces",
+                "name": "09|JAWA TENGAH",
+                "num": 2497
+            },
+            {
+                "type": "provinces",
+                "name": "72|BALI",
+                "num": 2114
+            },
+            {
+                "type": "provinces",
+                "name": "61|SULAWESI SELATAN",
+                "num": 537
+            },
+            {
+                "type": "provinces",
+                "name": "05|D.I. YOGYAKARTA",
+                "num": 479
+            },
+            {
+                "type": "provinces",
+                "name": "58|KALIMANTAN TENGAH",
+                "num": 368
+            },
+            {
+                "type": "provinces",
+                "name": "54|KALIMANTAN TIMUR",
+                "num": 317
+            },
+            {
+                "type": "provinces",
+                "name": "84|KEPULAUAN RIAU",
+                "num": 266
+            },
+            {
+                "type": "provinces",
+                "name": "60|SULAWESI TENGAH",
+                "num": 215
+            },
+            {
+                "type": "provinces",
+                "name": "23|BENGKULU",
+                "num": 103
+            },
+            {
+                "type": "provinces",
+                "name": "31|JAMBI",
+                "num": 18
+            },
+            {
+                "type": "provinces",
+                "name": "63|SULAWESI UTARA",
+                "num": 17
+            },
+            {
+                "type": "provinces",
+                "name": "69|SULAWESI TENGGARA",
+                "num": 11
+            },
+            {
+                "type": "provinces",
+                "name": "71|NUSA TENGGARA BARAT",
+                "num": 10
+            },
+            {
+                "type": "provinces",
+                "name": "39|LAMPUNG",
+                "num": 4
+            },
+            {
+                "type": "provinces",
+                "name": "32|NANGGROE ACEH DARUSSALAM",
+                "num": 2
+            },
+            {
+                "type": "provinces",
+                "name": "37|KEPULAUAN BANGKA BELITUNG",
+                "num": 2
+            },
+            {
+                "type": "provinces",
+                "name": "81|MALUKU",
+                "num": 1
+            },
+            {
+                "type": "colors",
+                "name": "Hitam",
+                "num": 18681
+            },
+            {
+                "type": "colors",
+                "name": "Putih",
+                "num": 17209
+            },
+            {
+                "type": "colors",
+                "name": "Silver",
+                "num": 12506
+            },
+            {
+                "type": "colors",
+                "name": "Abu-Abu",
+                "num": 7669
+            },
+            {
+                "type": "colors",
+                "name": "Merah",
+                "num": 4670
+            },
+            {
+                "type": "colors",
+                "name": "Biru",
+                "num": 913
+            },
+            {
+                "type": "colors",
+                "name": "Coklat",
+                "num": 513
+            },
+            {
+                "type": "colors",
+                "name": "Orange",
+                "num": 462
+            },
+            {
+                "type": "colors",
+                "name": "Kuning",
+                "num": 218
+            },
+            {
+                "type": "colors",
+                "name": "Hijau",
+                "num": 214
+            },
+            {
+                "type": "colors",
+                "name": "Krem",
+                "num": 177
+            },
+            {
+                "type": "colors",
+                "name": "Emas",
+                "num": 123
+            },
+            {
+                "type": "colors",
+                "name": "Ungu",
+                "num": 104
+            },
+            {
+                "type": "colors",
+                "name": "Pink",
+                "num": 20
+            },
+            {
+                "type": "transmisi",
+                "name": "Otomatis",
+                "num": 32994
+            },
+            {
+                "type": "transmisi",
+                "name": "Manual",
+                "num": 30398
+            },
+            {
+                "type": "transmisi",
+                "name": "Triptonic",
+                "num": 93
+            },
+            {
+                "type": "seller",
+                "name": "c2c",
+                "num": 38047
+            },
+            {
+                "type": "seller",
+                "name": "dealer",
+                "num": 25457
+            },
+            {
+                "type": "certified",
+                "name": "1",
+                "num": 8687
+            },
+            {
+                "type": "brands",
+                "name": "MORRIS GARAGE",
+                "num": 5
+            },
+            {
+                "type": "brands",
+                "name": "DONGFENG",
+                "num": 5
+            }
+        ]
